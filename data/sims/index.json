@@ -1,1 +1,1 @@
-[{"slug":"searched-tiles","name":"Your script + searched tiles","description":"The submitted script with searched movement tiles."},{"slug":"your-script","name":"Your script","description":"The submitted phased script."},{"slug":"solver-w-n-e-s","name":"Solver (W-N-E-S)","description":"The saved solver route W \u2192 N \u2192 E \u2192 S, replayed by the current simulator."}]
+[{"slug":"plan","name":"Your plan","description":"Your phased script, sampled seed 57."}]
